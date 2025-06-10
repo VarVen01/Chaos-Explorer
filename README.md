@@ -7,7 +7,6 @@ Learn about fundamental concepts in chaos theory with interactive and engaging P
 
 ## Table of Contents
 - [Installation](#installation)
-- [Technical Requirements](#technicalrequirements)
 - [Usage/Examples](#usageexamples)
 - [Features](#features)
 - [Topics Covered](#topics-covered)

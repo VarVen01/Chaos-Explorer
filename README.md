@@ -5,14 +5,27 @@ Learn about fundamental concepts in chaos theory with interactive and engaging P
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage/Examples](#usageexamples)
+- [Features](#features)
+- [Topics Covered](#topics-covered)
+- [Running Tests](#running-tests)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 To use the Chaos Explorer, simply open and save a copy of the notebook in Google Colab (no local installation required!).
 
 ### Technical Requirements
 - Google Colab or Jupyter notebook
 - Python 3.x
-- Libraries: Numpy, Matplotlib, SciPy, Ipywidgets (optional)
-
+- Libraries: 
+  - Numpy
+  - Matplotlib
+  - SciPy
+  - Ipywidgets (optional)
+  - 
 This notebook is publicly available for reference and educational purposes. Modification of the original file is not permitted. If you wish to experiment, please make a copy of the file.
 
 ## Usage/Examples
@@ -39,6 +52,11 @@ Read embedded explanations and notes accompanying each section to deepen underst
 - The Lorenz Attractor
 - Real-World Relevance
 
+## Running Tests
+To ensure the notebook functions as expected, you can run the following tests:
+1. Execute all cells in the notebook before and after making any changes.
+2. Verify that all visualizations render correctly and that no errors occur during execution.
+
 ## Contributing
 If you'd like to contribute to the Chaos Explorer:
 - Open an issue on this repository (click the "Issues" tab above).
@@ -47,5 +65,14 @@ If you'd like to contribute to the Chaos Explorer:
 
 Your comments and insights are always welcome!
 
+## Support
+For support or questions, please reach out via the Issues tab.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## FAQ
+**Q: What is chaos theory?**  
+A: Chaos theory is a field of mathematics that deals with dynamical systems that are highly sensitive to initial conditions.  
+**Q: Do I need a strong math background or any other prior chaos theory knowledge to understand this notebook?**  
+A: No, the notebook is designed for beginners and provides explanations of all fundamental concepts.

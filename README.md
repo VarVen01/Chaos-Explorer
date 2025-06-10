@@ -7,12 +7,15 @@ Learn about fundamental concepts in chaos theory with interactive and engaging P
 
 ## Table of Contents
 - [Installation](#installation)
+- [Technical Requirements](#technicalrequirements)
 - [Usage/Examples](#usageexamples)
 - [Features](#features)
 - [Topics Covered](#topics-covered)
 - [Running Tests](#running-tests)
 - [Contributing](#contributing)
+- [Support](#support)
 - [License](#license)
+- [FAQ](#faq)
 
 ## Installation
 To use the Chaos Explorer, simply open and save a copy of the notebook in Google Colab (no local installation required!).
@@ -25,7 +28,7 @@ To use the Chaos Explorer, simply open and save a copy of the notebook in Google
   - Matplotlib
   - SciPy
   - Ipywidgets (optional)
-  - 
+
 This notebook is publicly available for reference and educational purposes. Modification of the original file is not permitted. If you wish to experiment, please make a copy of the file.
 
 ## Usage/Examples
